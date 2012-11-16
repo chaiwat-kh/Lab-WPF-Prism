@@ -1,0 +1,15 @@
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\bin\Debug\ParentModule.dll
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\bin\Debug\ParentModule.pdb
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\View\ParentView.baml
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\View\ParentView.g.cs
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule_MarkupCompile.cache
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule.g.resources
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule.dll
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule.pdb
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule_MarkupCompile.lref
