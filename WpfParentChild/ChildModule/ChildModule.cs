@@ -4,21 +4,25 @@ using System.Linq;
 using System.Text;
 using Microsoft.Practices.Prism.Modularity;
 using Microsoft.Practices.Prism.Regions;
+using ParentChildService;
 
 namespace ChildModule
 {
     public class ChildModule : IModule
     {
-        private readonly IRegionViewRegistry regionViewRegistry;
+        private readonly IRegionViewRegistry _regionViewRegistry;
+        private readonly IParentChildService _parentChildService;
 
-        public ChildModule(IRegionViewRegistry registry)
+        public ChildModule(IRegionViewRegistry registry, IParentChildService parentChildService)
         {
-            this.regionViewRegistry = registry;   
+            this._regionViewRegistry = registry;
+            this._parentChildService = parentChildService;
+            
         }
 
         public void Initialize()
         {
-            regionViewRegistry.RegisterViewWithRegion("Child", typeof(View.ChildView));
+            _regionViewRegistry.RegisterViewWithRegion("Child", typeof(View.ChildView));
         }
     }
 }

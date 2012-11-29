@@ -12,26 +12,31 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.ComponentModel.Composition;
+using ChildModule.ViewModel;
+using System.Diagnostics.CodeAnalysis;
+using Microsoft.Practices.ServiceLocation;
 
 namespace ChildModule.View
 {
     /// <summary>
     /// Interaction logic for ChildView.xaml
-    /// </summary>
+    /// </summary>  
+    [PartCreationPolicy(CreationPolicy.Shared)]
     public partial class ChildView : UserControl
     {
         public ChildView()
         {
             InitializeComponent();
+            ViewModel = ServiceLocator.Current.GetInstance<ChildViewModel>();
         }
 
-        //[Import]
-        //public ChildViewModel ViewModel
-        //{
-        //    set
-        //    {
-        //        this.DataContext = value;
-        //    }
-        //}
+        //[Import]        
+        public ChildViewModel ViewModel
+        {
+            set
+            {
+                this.DataContext = value;
+            }
+        }
     }
 }

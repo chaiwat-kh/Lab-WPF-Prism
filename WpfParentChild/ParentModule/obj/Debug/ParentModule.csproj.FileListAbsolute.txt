@@ -13,3 +13,18 @@ D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\Wp
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule.pdb
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ParentModule\obj\Debug\ParentModule_MarkupCompile.lref
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\bin\Debug\ParentModule.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\bin\Debug\ParentModule.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\View\ParentView.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\ParentModule_MarkupCompile.cache
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\ParentModule_MarkupCompile.lref
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\View\ParentView.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\ParentModule.g.resources
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\ParentModule.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ParentModule\obj\Debug\ParentModule.pdb

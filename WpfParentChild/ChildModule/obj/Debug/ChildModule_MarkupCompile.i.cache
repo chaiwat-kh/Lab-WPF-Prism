@@ -4,17 +4,17 @@
 library
 C#
 .cs
-D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ChildModule\obj\Debug\
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\
 ChildModule
 none
 false
 DEBUG;TRACE
 
-129932782
+2-1038142323
 21999873178
-5578075706
-171387416885
-View\ChildView.xaml;
+7-1475807952
+191629846589
+View\AddressView.xaml;View\ChildView.xaml;
 
 True
 

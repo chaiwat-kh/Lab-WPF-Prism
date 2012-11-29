@@ -5,15 +5,18 @@
         Title="MainWindow" Height="350" Width="525">
         
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="2*"></ColumnDefinition>
-            <ColumnDefinition Width="1*"></ColumnDefinition>
-        </Grid.ColumnDefinitions>
-        
-        
-        <ItemsControl Name="Child" cal:RegionManager.RegionName="Child" />
-        
-        
-        <ItemsControl Grid.Column="1" Name="Parent" cal:RegionManager.RegionName="Parent" />
+        <TabControl  HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top" Height="306" Width="498">
+            <TabItem Header="tabItem1" Name="tabItem1">
+                <Grid>
+                    <ItemsControl Name="Child" cal:RegionManager.RegionName="Child" Grid.ColumnSpan="2" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="tabItem2" Name="tabItem2">
+                <Grid />
+            </TabItem>
+            <TabItem Header="tabItem3" Name="tabItem3">
+                <Grid />
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>

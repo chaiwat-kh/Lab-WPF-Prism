@@ -125,6 +125,10 @@
       <Project>{C13A24D1-CD03-4716-BF54-9AB57DF00720}</Project>
       <Name>ChildModule</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ParentChildService\ParentChildService.csproj">
+      <Project>{9583D745-35E8-4539-B638-15212CF3DAB3}</Project>
+      <Name>ParentChildService</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ParentModule\ParentModule.csproj">
       <Project>{E4D895B0-72D4-4A9D-904A-1E7E338C1FB0}</Project>
       <Name>ParentModule</Name>

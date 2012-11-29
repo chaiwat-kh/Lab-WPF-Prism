@@ -4,25 +4,33 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              mc:Ignorable="d" 
-             xmlns:my="clr-namespace:ChildModule.View"
-             d:DesignHeight="50" d:DesignWidth="250">
+             xmlns:my="clr-namespace:ChildModule.View"             
+             xmlns:ViewModels="clr-namespace:ChildModule.ViewModel"             
+             d:DesignHeight="91" d:DesignWidth="259" Opacity="50">
 
     <UserControl.Resources>
 
     </UserControl.Resources>
     
-    <UserControl.DataContext>
-        <my:ChildViewModel/>
-    </UserControl.DataContext>
-    
     <Grid>
-        <Grid>
+        <Grid Background="#FFE29191" Opacity="50" Margin="0,0,0,-37">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            <TextBlock Text="Name" Style="{StaticResource TextBlockSectionTitle}"></TextBlock>        
-            <TextBox Grid.Column="1" Text="{Binding Name}"></TextBox>           
+            <TextBlock Text="Name" Style="{StaticResource TextBlockSectionTitle}" Margin="3"></TextBlock>        
+            <TextBox Grid.Column="1" Text="{Binding Name}" Opacity="50" Margin="3" ></TextBox>
+
+            <my:AddressView Grid.Row="1" Grid.ColumnSpan="2" DataContext="{Binding AddressViewModel}"/>            
+            
+            <Button Content="OK" Grid.Column="1" Grid.Row="2" Height="23" 
+                    HorizontalAlignment="Left" Name="button1" VerticalAlignment="Top" Width="75" Margin="147,6,0,0" 
+                    Command="{Binding SubmitCommand}"/>
         </Grid>
     </Grid>
 </UserControl>

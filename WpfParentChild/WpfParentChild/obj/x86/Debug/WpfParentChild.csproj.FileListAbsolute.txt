@@ -22,3 +22,29 @@ D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\Wp
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\WpfParentChild\bin\Debug\ParentModule.pdb
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\WpfParentChild\obj\x86\Debug\Resources\Styles.baml
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\WpfParentChild\obj\x86\Debug\App.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\WpfParentChild.exe
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\WpfParentChild.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\WpfParentChild.exe
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\WpfParentChild.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\ChildModule.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\Microsoft.Practices.Prism.UnityExtensions.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\ParentModule.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\ChildModule.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\ParentModule.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\MainWindow.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\Resources\Styles.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\App.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\MainWindow.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\App.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\WpfParentChild_Content.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\WpfParentChild_MarkupCompile.cache
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\WpfParentChild.g.resources
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\WpfParentChild.Properties.Resources.resources
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\ParentChildService.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\WpfParentChild\bin\Debug\ParentChildService.pdb

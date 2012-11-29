@@ -13,3 +13,22 @@ D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\Wp
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ChildModule\obj\Debug\ChildModule.pdb
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ChildModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\Documents and Settings\chaiwat.kh\My Documents\Visual Studio 2010\Projects\WpfParentChild\ChildModule\obj\Debug\ChildModule_MarkupCompile.lref
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\ChildModule.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\ChildModule.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\ResolveAssemblyReference.cache
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\View\ChildView.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\ChildModule_MarkupCompile.cache
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\ChildModule_MarkupCompile.lref
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\View\ChildView.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\ChildModule.g.resources
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\ChildModule.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\ChildModule.pdb
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\View\AddressView.baml
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\obj\Debug\View\AddressView.g.cs
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\ParentChildService.dll
+D:\Lab\Lab-WPF-Prism\Lab-WPF-Prism\WpfParentChild\ChildModule\bin\Debug\ParentChildService.pdb
